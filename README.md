@@ -85,7 +85,7 @@
     }
 	```
 	
-##Second Activity
+## Second Activity
 
 如何从主活动跳转到其他活动：
 
